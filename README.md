@@ -20,5 +20,5 @@
 * Not the best results with this method. 
 * Silhouette Score: -0.083
 
-![Alt text](/imgs/heir umap?raw=true "Hierarchical Clustering Dimension Reduction with UMAP")
+![Alt text](/imgs/heir umap.png?raw=true "Hierarchical Clustering Dimension Reduction with UMAP")
 
