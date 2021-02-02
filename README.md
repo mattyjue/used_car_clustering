@@ -20,8 +20,5 @@
 * Not the best results with this method. 
 * Silhouette Score: -0.083
 
-<img src='imgs/heir umap.png' width='50%' align='center'>
-Clustering used cars using data scraped from craiglisst
+![Alt text](/imgs/heir umap?raw=true "Hierarchical Clustering Dimension Reduction with UMAP")
 
-
-The dataset was too large to be pushed. The dataset can be found at https://www.kaggle.com/austinreese/craigslist-carstrucks-data
