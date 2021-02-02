@@ -23,8 +23,10 @@
   * Uneven cluster distribution (almost 4300/6000 in cluster 0)
   * No clear groupings (purple and blue scattered)
 
+#### Hierarchical Cluster Dimension Reduction with UMAP
 <img src='imgs/heir umap.png' width='70%' align='center' title='Dimension Reduction with UMAP'>
 
+#### Hierarchical Clusters
 <img src='imgs/hier clusters.png' width='30%' align='center' title='Hierarchical clusters'>
 
 
@@ -36,8 +38,10 @@
   * One giant cluster (cluster 0)
   * A few in cluster 1 and a a few with no cluster.
 
+#### DBSCAN Cluster Dimension Reduction with UMAP
 <img src='imgs/dbscan umap.png' width='70%' align='center' title='Dimension Reduction with UMAP'>
 
+#### DBSCAN Clusters
 <img src='imgs/dbscan clusters.png' width='30%' align='center' title='DBSCAN clusters'>
 
 
@@ -49,8 +53,10 @@
   * We can see groupings more clearly
   * A more even distribution of clusters
 
+#### K-Medoids Cluster Dimension Reduction with UMAP
 <img src='imgs/kmeds umap.png' width='70%' align='center' title='Dimension Reduction with UMAP'>
 
+#### K-Medoids Clusters
 <img src='imgs/kmeds clusters.png' width='30%' align='center' title='KMedoids clusters'>
 
 
