@@ -19,6 +19,23 @@
 ### Hierarchical Clustering
 * Not the best results with this method. 
 * Silhouette Score: -0.083
+* Looking at 2D representation of cluster below:
+  * Uneven cluster distribution (almost 4300/6000 in cluster 0)
+  * No clear groupings (purple and blue scattered)
 
-![Alt text](/imgs/heir umap.png?raw=true "Hierarchical Clustering Dimension Reduction with UMAP")
+<img src='imgs/heir umap.png' width='70%' align='center' title='Dimension Reduction with UMAP' alt='2D representation of Hierarchical Cluster'>
 
+<img src='imgs/hier clusters.png' width='30%' align='center' title='Hierarchical clusters'>
+
+
+
+### DBSCAN Clustering
+* Even worse results that Hierarchical with DBSCAN. 
+* Silhouette Score: -0.0045
+* Looking at 2D representation of cluster below:
+  * One giant cluster (cluster 0)
+  * A few in cluster 1 and a a few with no cluster.
+
+<img src='imgs/dbscan umap.png' width='70%' align='center' title='Dimension Reduction with UMAP' alt='2D representation of DBSCAN Cluster'>
+
+<img src='imgs/dbscan clusters.png' width='30%' align='center' title='DBSCAN clusters'>
