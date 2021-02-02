@@ -20,7 +20,7 @@
 * Not the best results with this method. 
 * Silhouette Score: -0.083
 
-<img src='imgs/heir upmap.png' width='75px' align='center'>
+<img src='imgs/heir umap.png' width='50%' align='center'>
 Clustering used cars using data scraped from craiglisst
 
 
