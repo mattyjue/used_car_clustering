@@ -49,7 +49,7 @@
   * We can see groupings more clearly
   * A more even distribution of clusters
 
-<img src='imgs/kmed umap.png' width='70%' align='center' title='Dimension Reduction with UMAP'>
+<img src='imgs/kmeds umap.png' width='70%' align='center' title='Dimension Reduction with UMAP'>
 
 <img src='imgs/kmeds clusters.png' width='30%' align='center' title='KMedoids clusters'>
 
@@ -57,8 +57,9 @@
 
 ## K-Medoids Cluster Analysis
 
-### K-Medoids Cluster Characteristics
+#### K-Medoids Charactersitics by Proportion
 
 <img src='imgs/clust chars.png' width='70%' align='center' title='Cluster Charactersitics by Proportion'>
 
+#### K-Medoids Cluster names and Desriptions
 <img src='imgs/kmeds_clust_names.png' width='70%' align='center' title='Cluster names'>
